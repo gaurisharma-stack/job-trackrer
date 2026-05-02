@@ -1,2 +1,3 @@
 # job-trackrer
-live link - https://app.netlify.com/projects/majestic-taiyaki-c8d3a5/
+live link
+https://majestic-taiyaki-c8d3a5.netlify.app/
